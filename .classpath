@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ProcessosEx01"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ProcessosEx02"/>
+	<classpathentry kind="src" path="ThreadsEx01"/>
+	<classpathentry kind="src" path="ThreadsEx02"/>
+	<classpathentry kind="src" path="ThreadsEx03"/>
+	<classpathentry kind="src" path="ThreadsEx04"/>
+	<classpathentry kind="src" path="ThreadsEx05"/>
+	<classpathentry kind="src" path="ThreadsEx06"/>
+	<classpathentry kind="src" path="ThreadsSemaforEx01"/>
+	<classpathentry kind="src" path="ThreadsSemaforEx02"/>
+	<classpathentry kind="src" path="SemaforoEx01"/>
+	<classpathentry kind="src" path="SemaforoEx02"/>
+	<classpathentry kind="src" path="SemaforoEx03"/>
+	<classpathentry kind="src" path="Atividade1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
